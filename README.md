@@ -1,3 +1,4 @@
+
 # 🚚 Food Ordering Web App (MERN Stack)
 
 ## ✨ Table of Contents
@@ -165,3 +166,6 @@ Feel free to customize this template according to your specific project details 
 
 
 
+=======
+# MERN-food-delivery-app
+>>>>>>> 4d2b68e6f735006cdb65084e0f9a75f120a8b678
